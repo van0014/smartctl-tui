@@ -32,7 +32,7 @@ sudo pacman -S smartmontools
 
 ### 2. Clone and Run
 ```bash
-git clone [https://github.com](https://github.com/van0014/smartctl-tui)
+git clone https://github.com/van0014/smartctl-tui
 cd smartctl-tui
 
 # Run with root privileges to allow disk polling
