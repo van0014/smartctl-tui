@@ -2,6 +2,8 @@
 
 A modern, responsive Terminal User Interface (TUI) for storage drive health diagnostics on Linux. Inspired by the dense aesthetic of `btop`, this dashboard wraps `smartctl` telemetry inside a responsive interface that brings critical insights to your attention.
 
+<img width="1067" height="718" alt="Screenshot_20261019_200730" src="https://github.com/user-attachments/assets/83b0a3cd-318e-4038-b925-aedbfdb882cf" />
+
 ## 💡 The Core Concept: Worst-to-Best Analytics
 Traditional S.M.A.R.T. utilities list parameters alphabetically or by numerical ID, where it's not so simple to spot a weak drive.
 
