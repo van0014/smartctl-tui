@@ -1,6 +1,7 @@
 # 📊 smartctl-TUI
 
-A modern, responsive Terminal User Interface (TUI) for storage drive health diagnostics on Linux. Inspired by the dense aesthetic of `btop`, this dashboard wraps `smartctl` telemetry inside a responsive interface that brings critical insights to your attention.
+A modern Terminal User Interface (TUI) for storage drive health diagnostics on Linux. This dashboard wraps `smartctl` telemetry inside a graphic terminal user interface
+There are many terminal utilities that I would prefer had an interface, and that they had faster ways to use them.
 
 <img width="1067" height="718" alt="Screenshot_20261019_200730" src="https://github.com/user-attachments/assets/83b0a3cd-318e-4038-b925-aedbfdb882cf" />
 
