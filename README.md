@@ -39,7 +39,10 @@ git clone https://github.com/van0014/smartctl-tui
 cd smartctl-tui
 
 # Run with root privileges to allow disk polling
+# TUI
 sudo python3 app.py
+# GUI
+sudo python3 smart_data_gui.py
 ```
 
 ## 🎮 Keybindings
